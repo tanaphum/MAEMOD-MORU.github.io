@@ -1,7 +1,7 @@
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 url: "https://tanaphum.github.io/MAEMOD-MORU.github.io/"
-baseurl: ""
+baseurl: "https://tanaphum.github.io/MAEMOD-MORU.github.io/"
 
 title: Mathematical and Economic MODelling (MAEMOD)
 description: The Mathematical and Economic MODelling (MAEMOD) Department
